@@ -1,0 +1,13 @@
+# Binary
+/server
+
+# Environment secrets — never commit!
+.env
+
+# Go module cache
+vendor/
+
+# Editor
+.idea/
+.vscode/
+*.swp
